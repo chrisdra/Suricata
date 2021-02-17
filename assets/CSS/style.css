@@ -1,0 +1,19 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+nav, footer{
+  background-color: #E83E8C;
+}
+nav img{
+  width: 125px;
+}
+section h1{
+  color: #707070;
+}
+section i{
+  color: #ffffff;
+}
+footer img{
+  margin: 50px;
+  width: 70px;
+}
